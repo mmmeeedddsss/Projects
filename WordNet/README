@@ -1,0 +1,4 @@
+A project with introduced in Algorithms 2 course in coursera, 
+Project has 2 functions;
+-It can relate 2 english words, compare relatedness, calculate relatedness level and find the most common related group
+-It can find the word with the most unrelated meaning from n words
