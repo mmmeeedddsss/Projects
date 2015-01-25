@@ -1,0 +1,16 @@
+c:\users\mert\documents\visual studio 2010\Projects\İlk Oyun !\İlk Oyun !\İlk Oyun !\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mert\documents\visual studio 2010\Projects\İlk Oyun !\İlk Oyun !\İlk Oyun !\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\mert\documents\visual studio 2010\Projects\İlk Oyun !\İlk Oyun !\İlk Oyun !\bin\x86\Debug\Content\Images\Ball.xnb
+c:\users\mert\documents\visual studio 2010\Projects\İlk Oyun !\İlk Oyun !\İlk Oyun !\bin\x86\Debug\Content\Images\Sopa.xnb
+C:\Users\Mert\documents\visual studio 2010\Projects\İlk Oyun !\İlk Oyun !\İlk Oyun !\bin\x86\Debug\Content\Images\Cubuk.xnb
+C:\Users\Mert\documents\visual studio 2010\Projects\İlk Oyun !\İlk Oyun !\İlk Oyun !\bin\x86\Debug\Content\Images\Gun.xnb
+C:\Users\Mert\documents\visual studio 2010\Projects\İlk Oyun !\İlk Oyun !\İlk Oyun !\bin\x86\Debug\Content\Images\Bullet.xnb
+C:\Users\Mert\documents\visual studio 2010\Projects\İlk Oyun !\İlk Oyun !\İlk Oyun !\bin\x86\Debug\dxBall.exe.config
+C:\Users\Mert\documents\visual studio 2010\Projects\İlk Oyun !\İlk Oyun !\İlk Oyun !\bin\x86\Debug\dxBall.exe.manifest
+C:\Users\Mert\documents\visual studio 2010\Projects\İlk Oyun !\İlk Oyun !\İlk Oyun !\bin\x86\Debug\dxBall.application
+C:\Users\Mert\documents\visual studio 2010\Projects\İlk Oyun !\İlk Oyun !\İlk Oyun !\bin\x86\Debug\dxBall.exe
+C:\Users\Mert\documents\visual studio 2010\Projects\İlk Oyun !\İlk Oyun !\İlk Oyun !\bin\x86\Debug\dxBall.pdb
+C:\Users\Mert\documents\visual studio 2010\Projects\İlk Oyun !\İlk Oyun !\İlk Oyun !\obj\x86\Debug\dxBall.exe.manifest
+C:\Users\Mert\documents\visual studio 2010\Projects\İlk Oyun !\İlk Oyun !\İlk Oyun !\obj\x86\Debug\dxBall.application
+C:\Users\Mert\documents\visual studio 2010\Projects\İlk Oyun !\İlk Oyun !\İlk Oyun !\obj\x86\Debug\dxBall.exe
+C:\Users\Mert\documents\visual studio 2010\Projects\İlk Oyun !\İlk Oyun !\İlk Oyun !\obj\x86\Debug\dxBall.pdb
