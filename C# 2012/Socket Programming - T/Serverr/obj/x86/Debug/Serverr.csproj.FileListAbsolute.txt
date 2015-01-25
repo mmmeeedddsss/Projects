@@ -1,0 +1,5 @@
+c:\users\mert\documents\visual studio 2010\Projects\Socket Programming - T\Serverr\bin\Debug\Serverr.exe
+c:\users\mert\documents\visual studio 2010\Projects\Socket Programming - T\Serverr\bin\Debug\Serverr.pdb
+c:\users\mert\documents\visual studio 2010\Projects\Socket Programming - T\Serverr\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mert\documents\visual studio 2010\Projects\Socket Programming - T\Serverr\obj\x86\Debug\Serverr.exe
+c:\users\mert\documents\visual studio 2010\Projects\Socket Programming - T\Serverr\obj\x86\Debug\Serverr.pdb

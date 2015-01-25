@@ -1,0 +1,9 @@
+c:\users\mert\documents\visual studio 2010\Projects\Client - T\Client - T\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mert\documents\visual studio 2010\Projects\Client - T\Client - T\obj\x86\Debug\Client___T.Properties.Resources.resources
+c:\users\mert\documents\visual studio 2010\Projects\Client - T\Client - T\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\mert\documents\visual studio 2010\Projects\Client - T\Client - T\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\mert\documents\visual studio 2010\Projects\Client - T\Client - T\obj\x86\Debug\Client___T.Form1.resources
+c:\users\mert\documents\visual studio 2010\Projects\Client - T\Client - T\bin\Debug\Client - T.exe
+c:\users\mert\documents\visual studio 2010\Projects\Client - T\Client - T\bin\Debug\Client - T.pdb
+c:\users\mert\documents\visual studio 2010\Projects\Client - T\Client - T\obj\x86\Debug\Client - T.exe
+c:\users\mert\documents\visual studio 2010\Projects\Client - T\Client - T\obj\x86\Debug\Client - T.pdb

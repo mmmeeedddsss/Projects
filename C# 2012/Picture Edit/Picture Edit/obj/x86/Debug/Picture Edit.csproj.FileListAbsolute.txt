@@ -1,0 +1,5 @@
+c:\users\mert\documents\visual studio 2010\Projects\Picture Edit\Picture Edit\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mert\documents\visual studio 2010\Projects\Picture Edit\Picture Edit\bin\Debug\Picture Edit.exe
+c:\users\mert\documents\visual studio 2010\Projects\Picture Edit\Picture Edit\bin\Debug\Picture Edit.pdb
+c:\users\mert\documents\visual studio 2010\Projects\Picture Edit\Picture Edit\obj\x86\Debug\Picture Edit.exe
+c:\users\mert\documents\visual studio 2010\Projects\Picture Edit\Picture Edit\obj\x86\Debug\Picture Edit.pdb

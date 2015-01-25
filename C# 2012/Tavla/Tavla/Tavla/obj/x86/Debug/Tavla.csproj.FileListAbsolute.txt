@@ -1,0 +1,11 @@
+c:\users\mert\documents\visual studio 2010\Projects\Tavla\Tavla\Tavla\bin\x86\Debug\Tavla.exe
+c:\users\mert\documents\visual studio 2010\Projects\Tavla\Tavla\Tavla\bin\x86\Debug\Tavla.pdb
+c:\users\mert\documents\visual studio 2010\Projects\Tavla\Tavla\Tavla\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mert\documents\visual studio 2010\Projects\Tavla\Tavla\Tavla\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\mert\documents\visual studio 2010\Projects\Tavla\Tavla\Tavla\obj\x86\Debug\Tavla.exe
+c:\users\mert\documents\visual studio 2010\Projects\Tavla\Tavla\Tavla\obj\x86\Debug\Tavla.pdb
+c:\users\mert\documents\visual studio 2010\Projects\Tavla\Tavla\Tavla\bin\x86\Debug\Content\Img\beyaz.xnb
+c:\users\mert\documents\visual studio 2010\Projects\Tavla\Tavla\Tavla\bin\x86\Debug\Content\Img\board.xnb
+c:\users\mert\documents\visual studio 2010\Projects\Tavla\Tavla\Tavla\bin\x86\Debug\Content\Img\kirmizi.xnb
+c:\users\mert\documents\visual studio 2010\Projects\Tavla\Tavla\Tavla\bin\x86\Debug\Content\font1.xnb
+C:\Users\Mert\documents\visual studio 2010\Projects\Tavla\Tavla\Tavla\bin\x86\Debug\Content\Img\cm.xnb

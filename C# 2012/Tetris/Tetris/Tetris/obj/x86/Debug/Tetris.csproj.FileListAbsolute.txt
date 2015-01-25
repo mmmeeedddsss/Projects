@@ -1,0 +1,8 @@
+c:\users\mert\documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Tetris.exe
+c:\users\mert\documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Tetris.pdb
+c:\users\mert\documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mert\documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\mert\documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\obj\x86\Debug\Tetris.exe
+c:\users\mert\documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\obj\x86\Debug\Tetris.pdb
+c:\users\mert\documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\Images\Block.xnb
+c:\users\mert\documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\SpriteFont1.xnb

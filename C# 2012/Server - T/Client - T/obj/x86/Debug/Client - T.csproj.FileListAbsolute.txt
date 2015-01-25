@@ -1,0 +1,5 @@
+C:\Users\Mert\documents\visual studio 2010\Projects\Server - T\Client - T\bin\Debug\Client - T.exe
+C:\Users\Mert\documents\visual studio 2010\Projects\Server - T\Client - T\bin\Debug\Client - T.pdb
+C:\Users\Mert\documents\visual studio 2010\Projects\Server - T\Client - T\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mert\documents\visual studio 2010\Projects\Server - T\Client - T\obj\x86\Debug\Client - T.exe
+C:\Users\Mert\documents\visual studio 2010\Projects\Server - T\Client - T\obj\x86\Debug\Client - T.pdb

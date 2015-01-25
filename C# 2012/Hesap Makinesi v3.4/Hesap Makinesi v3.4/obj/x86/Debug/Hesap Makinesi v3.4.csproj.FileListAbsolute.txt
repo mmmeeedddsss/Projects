@@ -1,0 +1,9 @@
+c:\users\mert\documents\visual studio 2010\Projects\Hesap Makinesi v3.4\Hesap Makinesi v3.4\bin\Debug\Hesap Makinesi v3.4.exe
+c:\users\mert\documents\visual studio 2010\Projects\Hesap Makinesi v3.4\Hesap Makinesi v3.4\bin\Debug\Hesap Makinesi v3.4.pdb
+c:\users\mert\documents\visual studio 2010\Projects\Hesap Makinesi v3.4\Hesap Makinesi v3.4\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mert\documents\visual studio 2010\Projects\Hesap Makinesi v3.4\Hesap Makinesi v3.4\obj\x86\Debug\Hesap_Makinesi_v3._4.Form1.resources
+c:\users\mert\documents\visual studio 2010\Projects\Hesap Makinesi v3.4\Hesap Makinesi v3.4\obj\x86\Debug\Hesap_Makinesi_v3._4.Properties.Resources.resources
+c:\users\mert\documents\visual studio 2010\Projects\Hesap Makinesi v3.4\Hesap Makinesi v3.4\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\mert\documents\visual studio 2010\Projects\Hesap Makinesi v3.4\Hesap Makinesi v3.4\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\mert\documents\visual studio 2010\Projects\Hesap Makinesi v3.4\Hesap Makinesi v3.4\obj\x86\Debug\Hesap Makinesi v3.4.exe
+c:\users\mert\documents\visual studio 2010\Projects\Hesap Makinesi v3.4\Hesap Makinesi v3.4\obj\x86\Debug\Hesap Makinesi v3.4.pdb

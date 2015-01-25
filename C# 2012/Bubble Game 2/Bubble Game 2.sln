@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bubble Game 2", "Bubble Game 2\Bubble Game 2\Bubble Game 2.csproj", "{D36AC1D0-4398-4C7D-9206-95A2DC234D8E}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Bubble Game 2Content", "Bubble Game 2\Bubble Game 2Content\Bubble Game 2Content.contentproj", "{714D182B-59E2-4D4C-B32F-54419D975D5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D36AC1D0-4398-4C7D-9206-95A2DC234D8E}.Debug|x86.ActiveCfg = Debug|x86
+		{D36AC1D0-4398-4C7D-9206-95A2DC234D8E}.Debug|x86.Build.0 = Debug|x86
+		{D36AC1D0-4398-4C7D-9206-95A2DC234D8E}.Release|x86.ActiveCfg = Release|x86
+		{D36AC1D0-4398-4C7D-9206-95A2DC234D8E}.Release|x86.Build.0 = Release|x86
+		{714D182B-59E2-4D4C-B32F-54419D975D5B}.Debug|x86.ActiveCfg = Debug|x86
+		{714D182B-59E2-4D4C-B32F-54419D975D5B}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

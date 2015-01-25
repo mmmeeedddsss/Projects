@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kadir Savaşları", "Kadir Savaşları\Kadir Savaşları\Kadir Savaşları.csproj", "{3FB5A42E-0657-4D09-A209-22381F70FD85}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Kadir SavaşlarıContent", "Kadir Savaşları\Kadir SavaşlarıContent\Kadir SavaşlarıContent.contentproj", "{91493AE3-8D6D-4CC9-8F3D-1DDBFBA4376E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FB5A42E-0657-4D09-A209-22381F70FD85}.Debug|x86.ActiveCfg = Debug|x86
+		{3FB5A42E-0657-4D09-A209-22381F70FD85}.Debug|x86.Build.0 = Debug|x86
+		{3FB5A42E-0657-4D09-A209-22381F70FD85}.Release|x86.ActiveCfg = Release|x86
+		{3FB5A42E-0657-4D09-A209-22381F70FD85}.Release|x86.Build.0 = Release|x86
+		{91493AE3-8D6D-4CC9-8F3D-1DDBFBA4376E}.Debug|x86.ActiveCfg = Debug|x86
+		{91493AE3-8D6D-4CC9-8F3D-1DDBFBA4376E}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

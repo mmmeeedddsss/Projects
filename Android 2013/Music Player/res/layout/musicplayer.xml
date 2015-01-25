@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent">
+  
+  <TextView 
+	android:id="@+id/trackname"
+	android:text="Track Name"
+	android:layout_width="fill_parent"
+  	android:layout_height="wrap_content"
+  	android:gravity="center"
+/>
+  
+<Button 
+	android:id="@+id/pp"
+	android:text="Play/Pause"
+	android:layout_width="fill_parent"
+  	android:layout_height="wrap_content"
+/>
+<Button 
+	android:id="@+id/next"
+	android:text="Next"
+	android:layout_width="fill_parent"
+  	android:layout_height="wrap_content"
+/>
+<EditText
+	android:id="@+id/to"
+	android:text=""
+	android:layout_width="fill_parent"
+  	android:layout_height="wrap_content"
+ />
+<Button 
+	android:id="@+id/seek"
+	android:text="Seek"
+	android:layout_width="fill_parent"
+  	android:layout_height="wrap_content"
+/>
+<TextView
+	android:id="@+id/lenght"
+	android:text="Lenght"
+	android:layout_width="fill_parent"
+  	android:layout_height="wrap_content"
+ />
+ <VideoView 
+ 	android:id="@+id/vv"
+	android:layout_width="fill_parent"
+  	android:layout_height="wrap_content"
+ />
+ <MediaController 
+ 	android:id="@+id/mc"
+	android:layout_width="fill_parent"
+  	android:layout_height="wrap_content"
+ ></MediaController>
+
+    
+</LinearLayout>

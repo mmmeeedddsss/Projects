@@ -1,0 +1,9 @@
+c:\users\mert\documents\visual studio 2010\Projects\Socket Programming - T\Socket Programming - T\bin\Debug\Socket Programming - T.exe
+c:\users\mert\documents\visual studio 2010\Projects\Socket Programming - T\Socket Programming - T\bin\Debug\Socket Programming - T.pdb
+c:\users\mert\documents\visual studio 2010\Projects\Socket Programming - T\Socket Programming - T\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mert\documents\visual studio 2010\Projects\Socket Programming - T\Socket Programming - T\obj\x86\Debug\Socket_Programming___T.Form1.resources
+c:\users\mert\documents\visual studio 2010\Projects\Socket Programming - T\Socket Programming - T\obj\x86\Debug\Socket_Programming___T.Properties.Resources.resources
+c:\users\mert\documents\visual studio 2010\Projects\Socket Programming - T\Socket Programming - T\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\mert\documents\visual studio 2010\Projects\Socket Programming - T\Socket Programming - T\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\mert\documents\visual studio 2010\Projects\Socket Programming - T\Socket Programming - T\obj\x86\Debug\Socket Programming - T.exe
+c:\users\mert\documents\visual studio 2010\Projects\Socket Programming - T\Socket Programming - T\obj\x86\Debug\Socket Programming - T.pdb

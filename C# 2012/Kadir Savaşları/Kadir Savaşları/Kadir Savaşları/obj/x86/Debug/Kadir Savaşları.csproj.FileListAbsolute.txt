@@ -1,0 +1,10 @@
+c:\users\mert\documents\visual studio 2010\Projects\Kadir Savaşları\Kadir Savaşları\Kadir Savaşları\bin\x86\Debug\Kadir Savaşları.exe
+c:\users\mert\documents\visual studio 2010\Projects\Kadir Savaşları\Kadir Savaşları\Kadir Savaşları\bin\x86\Debug\Kadir Savaşları.pdb
+c:\users\mert\documents\visual studio 2010\Projects\Kadir Savaşları\Kadir Savaşları\Kadir Savaşları\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mert\documents\visual studio 2010\Projects\Kadir Savaşları\Kadir Savaşları\Kadir Savaşları\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\mert\documents\visual studio 2010\Projects\Kadir Savaşları\Kadir Savaşları\Kadir Savaşları\obj\x86\Debug\Kadir Savaşları.exe
+c:\users\mert\documents\visual studio 2010\Projects\Kadir Savaşları\Kadir Savaşları\Kadir Savaşları\obj\x86\Debug\Kadir Savaşları.pdb
+c:\users\mert\documents\visual studio 2010\Projects\Kadir Savaşları\Kadir Savaşları\Kadir Savaşları\bin\x86\Debug\Content\kadir.xnb
+c:\users\mert\documents\visual studio 2010\Projects\Kadir Savaşları\Kadir Savaşları\Kadir Savaşları\bin\x86\Debug\Content\bom.xnb
+c:\users\mert\documents\visual studio 2010\Projects\Kadir Savaşları\Kadir Savaşları\Kadir Savaşları\bin\x86\Debug\Content\ucan_dog.xnb
+c:\users\mert\documents\visual studio 2010\Projects\Kadir Savaşları\Kadir Savaşları\Kadir Savaşları\bin\x86\Debug\Content\SpriteFont1.xnb

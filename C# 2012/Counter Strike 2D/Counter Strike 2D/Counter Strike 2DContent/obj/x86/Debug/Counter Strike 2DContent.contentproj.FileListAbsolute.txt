@@ -1,0 +1,2 @@
+c:\users\mert\documents\visual studio 2010\Projects\Counter Strike 2D\Counter Strike 2D\Counter Strike 2DContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mert\Desktop\New folder\Projects\Counter Strike 2D\Counter Strike 2D\Counter Strike 2DContent\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,26 @@
+c:\users\mert\documents\visual studio 2010\Projects\Counter Strike 2D\Counter Strike 2D\Counter Strike 2D\bin\x86\Debug\Counter Strike 2D.exe
+c:\users\mert\documents\visual studio 2010\Projects\Counter Strike 2D\Counter Strike 2D\Counter Strike 2D\bin\x86\Debug\Counter Strike 2D.pdb
+c:\users\mert\documents\visual studio 2010\Projects\Counter Strike 2D\Counter Strike 2D\Counter Strike 2D\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mert\documents\visual studio 2010\Projects\Counter Strike 2D\Counter Strike 2D\Counter Strike 2D\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\mert\documents\visual studio 2010\Projects\Counter Strike 2D\Counter Strike 2D\Counter Strike 2D\obj\x86\Debug\Counter Strike 2D.exe
+c:\users\mert\documents\visual studio 2010\Projects\Counter Strike 2D\Counter Strike 2D\Counter Strike 2D\obj\x86\Debug\Counter Strike 2D.pdb
+c:\users\mert\documents\visual studio 2010\Projects\Counter Strike 2D\Counter Strike 2D\Counter Strike 2D\bin\x86\Debug\Content\ground.xnb
+c:\users\mert\documents\visual studio 2010\Projects\Counter Strike 2D\Counter Strike 2D\Counter Strike 2D\bin\x86\Debug\Content\man.xnb
+c:\users\mert\documents\visual studio 2010\Projects\Counter Strike 2D\Counter Strike 2D\Counter Strike 2D\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Mert\documents\visual studio 2010\Projects\Counter Strike 2D\Counter Strike 2D\Counter Strike 2D\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Mert\documents\visual studio 2010\Projects\Counter Strike 2D\Counter Strike 2D\Counter Strike 2D\bin\x86\Debug\Content\Block.xnb
+C:\Users\Mert\documents\visual studio 2010\Projects\Counter Strike 2D\Counter Strike 2D\Counter Strike 2D\bin\x86\Debug\Content\blood.xnb
+C:\Users\Mert\documents\visual studio 2010\Projects\Counter Strike 2D\Counter Strike 2D\Counter Strike 2D\bin\x86\Debug\Content\menufont.xnb
+C:\Users\Mert\Desktop\New folder\Projects\Counter Strike 2D\Counter Strike 2D\Counter Strike 2D\bin\x86\Debug\Content\man.xnb
+C:\Users\Mert\Desktop\New folder\Projects\Counter Strike 2D\Counter Strike 2D\Counter Strike 2D\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Mert\Desktop\New folder\Projects\Counter Strike 2D\Counter Strike 2D\Counter Strike 2D\bin\x86\Debug\Content\Block.xnb
+C:\Users\Mert\Desktop\New folder\Projects\Counter Strike 2D\Counter Strike 2D\Counter Strike 2D\bin\x86\Debug\Content\blood.xnb
+C:\Users\Mert\Desktop\New folder\Projects\Counter Strike 2D\Counter Strike 2D\Counter Strike 2D\bin\x86\Debug\Content\ground.xnb
+C:\Users\Mert\Desktop\New folder\Projects\Counter Strike 2D\Counter Strike 2D\Counter Strike 2D\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Mert\Desktop\New folder\Projects\Counter Strike 2D\Counter Strike 2D\Counter Strike 2D\bin\x86\Debug\Content\menufont.xnb
+C:\Users\Mert\Desktop\New folder\Projects\Counter Strike 2D\Counter Strike 2D\Counter Strike 2D\bin\x86\Debug\Counter Strike 2D.exe
+C:\Users\Mert\Desktop\New folder\Projects\Counter Strike 2D\Counter Strike 2D\Counter Strike 2D\bin\x86\Debug\Counter Strike 2D.pdb
+C:\Users\Mert\Desktop\New folder\Projects\Counter Strike 2D\Counter Strike 2D\Counter Strike 2D\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mert\Desktop\New folder\Projects\Counter Strike 2D\Counter Strike 2D\Counter Strike 2D\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Mert\Desktop\New folder\Projects\Counter Strike 2D\Counter Strike 2D\Counter Strike 2D\obj\x86\Debug\Counter Strike 2D.exe
+C:\Users\Mert\Desktop\New folder\Projects\Counter Strike 2D\Counter Strike 2D\Counter Strike 2D\obj\x86\Debug\Counter Strike 2D.pdb

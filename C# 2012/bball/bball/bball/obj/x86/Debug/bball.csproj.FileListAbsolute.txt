@@ -1,0 +1,8 @@
+C:\Users\Mert\documents\visual studio 2010\Projects\bball\bball\bball\bin\x86\Debug\bball.exe
+C:\Users\Mert\documents\visual studio 2010\Projects\bball\bball\bball\bin\x86\Debug\bball.pdb
+C:\Users\Mert\documents\visual studio 2010\Projects\bball\bball\bball\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mert\documents\visual studio 2010\Projects\bball\bball\bball\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Mert\documents\visual studio 2010\Projects\bball\bball\bball\obj\x86\Debug\bball.exe
+C:\Users\Mert\documents\visual studio 2010\Projects\bball\bball\bball\obj\x86\Debug\bball.pdb
+C:\Users\Mert\documents\visual studio 2010\Projects\bball\bball\bball\bin\x86\Debug\Content\Ball.xnb
+C:\Users\Mert\documents\visual studio 2010\Projects\bball\bball\bball\bin\x86\Debug\Content\SpriteFont1.xnb

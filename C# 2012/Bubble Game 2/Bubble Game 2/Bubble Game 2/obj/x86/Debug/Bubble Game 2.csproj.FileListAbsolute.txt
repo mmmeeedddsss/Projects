@@ -1,0 +1,14 @@
+C:\Users\Mert\Documents\Visual Studio 2010\Projects\Bubble Game 2\Bubble Game 2\Bubble Game 2\bin\x86\Debug\Content\Bounds.xnb
+C:\Users\Mert\Documents\Visual Studio 2010\Projects\Bubble Game 2\Bubble Game 2\Bubble Game 2\bin\x86\Debug\Content\Block.xnb
+C:\Users\Mert\Documents\Visual Studio 2010\Projects\Bubble Game 2\Bubble Game 2\Bubble Game 2\bin\x86\Debug\Content\refresh1.xnb
+C:\Users\Mert\Documents\Visual Studio 2010\Projects\Bubble Game 2\Bubble Game 2\Bubble Game 2\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Mert\Documents\Visual Studio 2010\Projects\Bubble Game 2\Bubble Game 2\Bubble Game 2\bin\x86\Debug\Bubble Game 2.exe.manifest
+C:\Users\Mert\Documents\Visual Studio 2010\Projects\Bubble Game 2\Bubble Game 2\Bubble Game 2\bin\x86\Debug\Bubble Game 2.application
+C:\Users\Mert\Documents\Visual Studio 2010\Projects\Bubble Game 2\Bubble Game 2\Bubble Game 2\bin\x86\Debug\Bubble Game 2.exe
+C:\Users\Mert\Documents\Visual Studio 2010\Projects\Bubble Game 2\Bubble Game 2\Bubble Game 2\bin\x86\Debug\Bubble Game 2.pdb
+C:\Users\Mert\Documents\Visual Studio 2010\Projects\Bubble Game 2\Bubble Game 2\Bubble Game 2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mert\Documents\Visual Studio 2010\Projects\Bubble Game 2\Bubble Game 2\Bubble Game 2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Mert\Documents\Visual Studio 2010\Projects\Bubble Game 2\Bubble Game 2\Bubble Game 2\obj\x86\Debug\Bubble Game 2.exe.manifest
+C:\Users\Mert\Documents\Visual Studio 2010\Projects\Bubble Game 2\Bubble Game 2\Bubble Game 2\obj\x86\Debug\Bubble Game 2.application
+C:\Users\Mert\Documents\Visual Studio 2010\Projects\Bubble Game 2\Bubble Game 2\Bubble Game 2\obj\x86\Debug\Bubble Game 2.exe
+C:\Users\Mert\Documents\Visual Studio 2010\Projects\Bubble Game 2\Bubble Game 2\Bubble Game 2\obj\x86\Debug\Bubble Game 2.pdb

@@ -1,0 +1,13 @@
+c:\users\mert\documents\visual studio 2010\Projects\Game2.cs\Game2.cs\Game2.cs\bin\x86\Debug\Game2.cs.exe
+c:\users\mert\documents\visual studio 2010\Projects\Game2.cs\Game2.cs\Game2.cs\bin\x86\Debug\Game2.cs.pdb
+c:\users\mert\documents\visual studio 2010\Projects\Game2.cs\Game2.cs\Game2.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mert\documents\visual studio 2010\Projects\Game2.cs\Game2.cs\Game2.cs\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\mert\documents\visual studio 2010\Projects\Game2.cs\Game2.cs\Game2.cs\obj\x86\Debug\Game2.cs.exe
+c:\users\mert\documents\visual studio 2010\Projects\Game2.cs\Game2.cs\Game2.cs\obj\x86\Debug\Game2.cs.pdb
+c:\users\mert\documents\visual studio 2010\Projects\Game2.cs\Game2.cs\Game2.cs\bin\x86\Debug\Content\SpriteFont1.xnb
+c:\users\mert\documents\visual studio 2010\Projects\Game2.cs\Game2.cs\Game2.cs\bin\x86\Debug\Content\Block.xnb
+C:\Users\Mert\Documents\Visual Studio 2010\Projects\Game2.cs\Game2.cs\Game2.cs\bin\x86\Debug\Content\Bounds.xnb
+C:\Users\Mert\documents\visual studio 2010\Projects\Game2.cs\Game2.cs\Game2.cs\bin\x86\Debug\Game2.cs.exe.manifest
+C:\Users\Mert\documents\visual studio 2010\Projects\Game2.cs\Game2.cs\Game2.cs\bin\x86\Debug\Game2.cs.application
+C:\Users\Mert\documents\visual studio 2010\Projects\Game2.cs\Game2.cs\Game2.cs\obj\x86\Debug\Game2.cs.exe.manifest
+C:\Users\Mert\documents\visual studio 2010\Projects\Game2.cs\Game2.cs\Game2.cs\obj\x86\Debug\Game2.cs.application

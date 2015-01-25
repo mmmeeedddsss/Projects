@@ -1,0 +1,12 @@
+c:\users\mert\documents\visual studio 2010\Projects\Clock\Clock\bin\Debug\Clock.exe
+c:\users\mert\documents\visual studio 2010\Projects\Clock\Clock\bin\Debug\Clock.pdb
+c:\users\mert\documents\visual studio 2010\Projects\Clock\Clock\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mert\documents\visual studio 2010\Projects\Clock\Clock\obj\x86\Debug\Clock.Properties.Resources.resources
+c:\users\mert\documents\visual studio 2010\Projects\Clock\Clock\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\mert\documents\visual studio 2010\Projects\Clock\Clock\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\mert\documents\visual studio 2010\Projects\Clock\Clock\obj\x86\Debug\Clock.exe
+c:\users\mert\documents\visual studio 2010\Projects\Clock\Clock\obj\x86\Debug\Clock.pdb
+c:\users\mert\documents\visual studio 2010\Projects\Clock\Clock\obj\x86\Debug\Clock.Form1.resources
+C:\Users\Mert\documents\visual studio 2010\Projects\Clock\Clock\bin\Debug\Clock.exe.config
+C:\Users\Mert\documents\visual studio 2010\Projects\Clock\Clock\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Mert\documents\visual studio 2010\Projects\Clock\Clock\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog

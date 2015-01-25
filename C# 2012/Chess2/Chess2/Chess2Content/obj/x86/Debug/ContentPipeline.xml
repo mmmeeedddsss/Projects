@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Pieces\Empty.png</Source>
+      <Name>Pieces\Empty</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mert\documents\visual studio 2010\Projects\Chess2\Chess2\Chess2\bin\x86\Debug\Content\Pieces\Empty.xnb</Output>
+      <Time>2011-09-14T20:07:28.6761103+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Pieces\skral.png</Source>
+      <Name>Pieces\skral</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mert\documents\visual studio 2010\Projects\Chess2\Chess2\Chess2\bin\x86\Debug\Content\Pieces\skral.xnb</Output>
+      <Time>2011-09-14T20:07:28.6861103+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Pieces\sat.png</Source>
+      <Name>Pieces\sat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mert\documents\visual studio 2010\Projects\Chess2\Chess2\Chess2\bin\x86\Debug\Content\Pieces\sat.xnb</Output>
+      <Time>2011-09-14T20:07:28.6861103+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Pieces\spiyon.png</Source>
+      <Name>Pieces\spiyon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mert\documents\visual studio 2010\Projects\Chess2\Chess2\Chess2\bin\x86\Debug\Content\Pieces\spiyon.xnb</Output>
+      <Time>2011-09-14T20:07:28.6861103+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Pieces\svezir.png</Source>
+      <Name>Pieces\svezir</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mert\documents\visual studio 2010\Projects\Chess2\Chess2\Chess2\bin\x86\Debug\Content\Pieces\svezir.xnb</Output>
+      <Time>2011-09-14T20:07:28.6861103+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Pieces\skale.png</Source>
+      <Name>Pieces\skale</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mert\documents\visual studio 2010\Projects\Chess2\Chess2\Chess2\bin\x86\Debug\Content\Pieces\skale.xnb</Output>
+      <Time>2011-09-14T20:07:28.6861103+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Pieces\bfil.png</Source>
+      <Name>Pieces\bfil</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mert\documents\visual studio 2010\Projects\Chess2\Chess2\Chess2\bin\x86\Debug\Content\Pieces\bfil.xnb</Output>
+      <Time>2011-09-14T20:07:28.6761103+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Pieces\bkral.png</Source>
+      <Name>Pieces\bkral</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mert\documents\visual studio 2010\Projects\Chess2\Chess2\Chess2\bin\x86\Debug\Content\Pieces\bkral.xnb</Output>
+      <Time>2011-09-14T20:07:28.6761103+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Pieces\bat.png</Source>
+      <Name>Pieces\bat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mert\documents\visual studio 2010\Projects\Chess2\Chess2\Chess2\bin\x86\Debug\Content\Pieces\bat.xnb</Output>
+      <Time>2011-09-14T20:07:28.6761103+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Pieces\bpiyon.png</Source>
+      <Name>Pieces\bpiyon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mert\documents\visual studio 2010\Projects\Chess2\Chess2\Chess2\bin\x86\Debug\Content\Pieces\bpiyon.xnb</Output>
+      <Time>2011-09-14T20:07:28.6761103+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Pieces\bvezir.png</Source>
+      <Name>Pieces\bvezir</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mert\documents\visual studio 2010\Projects\Chess2\Chess2\Chess2\bin\x86\Debug\Content\Pieces\bvezir.xnb</Output>
+      <Time>2011-09-14T20:07:28.6761103+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Pieces\bkale.png</Source>
+      <Name>Pieces\bkale</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mert\documents\visual studio 2010\Projects\Chess2\Chess2\Chess2\bin\x86\Debug\Content\Pieces\bkale.xnb</Output>
+      <Time>2011-09-14T20:07:28.6761103+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Pieces\sfil.png</Source>
+      <Name>Pieces\sfil</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mert\documents\visual studio 2010\Projects\Chess2\Chess2\Chess2\bin\x86\Debug\Content\Pieces\sfil.xnb</Output>
+      <Time>2011-09-14T20:07:28.6861103+03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>c:\users\mert\documents\visual studio 2010\Projects\Chess2\Chess2\Chess2Content\</RootDirectory>
+      <LoggerRootDirectory>c:\users\mert\documents\visual studio 2010\Projects\Chess2\Chess2\Chess2\</LoggerRootDirectory>
+      <IntermediateDirectory>c:\users\mert\documents\visual studio 2010\Projects\Chess2\Chess2\Chess2Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>c:\users\mert\documents\visual studio 2010\Projects\Chess2\Chess2\Chess2\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-04-25T17:31:57.2563211+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

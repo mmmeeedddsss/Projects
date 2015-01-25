@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Socket Programming - T\Client.csproj", "{61FF03C7-E38C-4374-A025-2D489CE38F45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serverr", "Serverr\Serverr.csproj", "{DEF82307-7A09-4D90-871F-96D8ACBF30A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61FF03C7-E38C-4374-A025-2D489CE38F45}.Debug|x86.ActiveCfg = Debug|x86
+		{61FF03C7-E38C-4374-A025-2D489CE38F45}.Debug|x86.Build.0 = Debug|x86
+		{61FF03C7-E38C-4374-A025-2D489CE38F45}.Release|x86.ActiveCfg = Release|x86
+		{61FF03C7-E38C-4374-A025-2D489CE38F45}.Release|x86.Build.0 = Release|x86
+		{DEF82307-7A09-4D90-871F-96D8ACBF30A4}.Debug|x86.ActiveCfg = Debug|x86
+		{DEF82307-7A09-4D90-871F-96D8ACBF30A4}.Debug|x86.Build.0 = Debug|x86
+		{DEF82307-7A09-4D90-871F-96D8ACBF30A4}.Release|x86.ActiveCfg = Release|x86
+		{DEF82307-7A09-4D90-871F-96D8ACBF30A4}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

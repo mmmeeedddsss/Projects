@@ -1,0 +1,9 @@
+c:\users\mert\documents\visual studio 2010\Projects\Kaplumbağa Dili\Kaplumbağa Dili\bin\Debug\Kaplumbağa Dili.exe
+c:\users\mert\documents\visual studio 2010\Projects\Kaplumbağa Dili\Kaplumbağa Dili\bin\Debug\Kaplumbağa Dili.pdb
+c:\users\mert\documents\visual studio 2010\Projects\Kaplumbağa Dili\Kaplumbağa Dili\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mert\documents\visual studio 2010\Projects\Kaplumbağa Dili\Kaplumbağa Dili\obj\x86\Debug\Kaplumbağa_Dili.Form1.resources
+c:\users\mert\documents\visual studio 2010\Projects\Kaplumbağa Dili\Kaplumbağa Dili\obj\x86\Debug\Kaplumbağa_Dili.Properties.Resources.resources
+c:\users\mert\documents\visual studio 2010\Projects\Kaplumbağa Dili\Kaplumbağa Dili\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\mert\documents\visual studio 2010\Projects\Kaplumbağa Dili\Kaplumbağa Dili\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\mert\documents\visual studio 2010\Projects\Kaplumbağa Dili\Kaplumbağa Dili\obj\x86\Debug\Kaplumbağa Dili.exe
+c:\users\mert\documents\visual studio 2010\Projects\Kaplumbağa Dili\Kaplumbağa Dili\obj\x86\Debug\Kaplumbağa Dili.pdb

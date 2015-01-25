@@ -1,0 +1,9 @@
+c:\users\mert\documents\visual studio 2010\Projects\Bilgisayar SüreMatik\Bilgisayar SüreMatik\bin\Debug\Bilgisayar SüreMatik.exe
+c:\users\mert\documents\visual studio 2010\Projects\Bilgisayar SüreMatik\Bilgisayar SüreMatik\bin\Debug\Bilgisayar SüreMatik.pdb
+c:\users\mert\documents\visual studio 2010\Projects\Bilgisayar SüreMatik\Bilgisayar SüreMatik\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mert\documents\visual studio 2010\Projects\Bilgisayar SüreMatik\Bilgisayar SüreMatik\obj\x86\Debug\Bilgisayar_SüreMatik.SüreMatik.resources
+c:\users\mert\documents\visual studio 2010\Projects\Bilgisayar SüreMatik\Bilgisayar SüreMatik\obj\x86\Debug\Bilgisayar_SüreMatik.Properties.Resources.resources
+c:\users\mert\documents\visual studio 2010\Projects\Bilgisayar SüreMatik\Bilgisayar SüreMatik\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\mert\documents\visual studio 2010\Projects\Bilgisayar SüreMatik\Bilgisayar SüreMatik\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\mert\documents\visual studio 2010\Projects\Bilgisayar SüreMatik\Bilgisayar SüreMatik\obj\x86\Debug\Bilgisayar SüreMatik.exe
+c:\users\mert\documents\visual studio 2010\Projects\Bilgisayar SüreMatik\Bilgisayar SüreMatik\obj\x86\Debug\Bilgisayar SüreMatik.pdb

@@ -1,0 +1,8 @@
+c:\users\mert\documents\visual studio 2010\Projects\isimsiz\isimsiz\isimsiz\bin\x86\Debug\isimsiz.exe
+c:\users\mert\documents\visual studio 2010\Projects\isimsiz\isimsiz\isimsiz\bin\x86\Debug\isimsiz.pdb
+c:\users\mert\documents\visual studio 2010\Projects\isimsiz\isimsiz\isimsiz\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mert\documents\visual studio 2010\Projects\isimsiz\isimsiz\isimsiz\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\mert\documents\visual studio 2010\Projects\isimsiz\isimsiz\isimsiz\obj\x86\Debug\isimsiz.exe
+c:\users\mert\documents\visual studio 2010\Projects\isimsiz\isimsiz\isimsiz\obj\x86\Debug\isimsiz.pdb
+c:\users\mert\documents\visual studio 2010\Projects\isimsiz\isimsiz\isimsiz\bin\x86\Debug\Content\Empty.xnb
+c:\users\mert\documents\visual studio 2010\Projects\isimsiz\isimsiz\isimsiz\bin\x86\Debug\Content\Node.xnb

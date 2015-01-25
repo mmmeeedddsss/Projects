@@ -1,0 +1,12 @@
+c:\users\mert\documents\visual studio 2010\Projects\Ogame12\Ogame12\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mert\documents\visual studio 2010\Projects\Ogame12\Ogame12\obj\x86\Debug\Ogame12.Form1.resources
+c:\users\mert\documents\visual studio 2010\Projects\Ogame12\Ogame12\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\mert\documents\visual studio 2010\Projects\Ogame12\Ogame12\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mert\documents\visual studio 2010\Projects\Ogame12\Ogame12\bin\Debug\OgameHelper.exe
+C:\Users\Mert\documents\visual studio 2010\Projects\Ogame12\Ogame12\bin\Debug\OgameHelper.pdb
+C:\Users\Mert\documents\visual studio 2010\Projects\Ogame12\Ogame12\obj\x86\Debug\OgameHelper.Properties.Resources.resources
+C:\Users\Mert\documents\visual studio 2010\Projects\Ogame12\Ogame12\obj\x86\Debug\OgameHelper.exe
+C:\Users\Mert\documents\visual studio 2010\Projects\Ogame12\Ogame12\obj\x86\Debug\OgameHelper.pdb
+C:\Users\Mert\documents\visual studio 2010\Projects\Ogame12\Ogame12\bin\Debug\OgameHelper.exe.config
+C:\Users\Mert\documents\visual studio 2010\Projects\Ogame12\Ogame12\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Mert\documents\visual studio 2010\Projects\Ogame12\Ogame12\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog

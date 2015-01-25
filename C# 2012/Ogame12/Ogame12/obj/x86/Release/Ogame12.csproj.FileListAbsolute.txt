@@ -1,0 +1,9 @@
+C:\Users\Mert\documents\visual studio 2010\Projects\Ogame12\Ogame12\bin\Release\Ogame12.exe
+C:\Users\Mert\documents\visual studio 2010\Projects\Ogame12\Ogame12\bin\Release\Ogame12.pdb
+C:\Users\Mert\documents\visual studio 2010\Projects\Ogame12\Ogame12\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Mert\documents\visual studio 2010\Projects\Ogame12\Ogame12\obj\x86\Release\Ogame12.Form1.resources
+C:\Users\Mert\documents\visual studio 2010\Projects\Ogame12\Ogame12\obj\x86\Release\Ogame12.Properties.Resources.resources
+C:\Users\Mert\documents\visual studio 2010\Projects\Ogame12\Ogame12\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Mert\documents\visual studio 2010\Projects\Ogame12\Ogame12\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Mert\documents\visual studio 2010\Projects\Ogame12\Ogame12\obj\x86\Release\Ogame12.exe
+C:\Users\Mert\documents\visual studio 2010\Projects\Ogame12\Ogame12\obj\x86\Release\Ogame12.pdb

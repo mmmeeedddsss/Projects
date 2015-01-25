@@ -1,0 +1,5 @@
+c:\users\mert\documents\visual studio 2010\Projects\ImageCrater\ImageCrater\bin\Debug\ImageCrater.exe
+c:\users\mert\documents\visual studio 2010\Projects\ImageCrater\ImageCrater\bin\Debug\ImageCrater.pdb
+c:\users\mert\documents\visual studio 2010\Projects\ImageCrater\ImageCrater\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mert\documents\visual studio 2010\Projects\ImageCrater\ImageCrater\obj\x86\Debug\ImageCrater.exe
+c:\users\mert\documents\visual studio 2010\Projects\ImageCrater\ImageCrater\obj\x86\Debug\ImageCrater.pdb

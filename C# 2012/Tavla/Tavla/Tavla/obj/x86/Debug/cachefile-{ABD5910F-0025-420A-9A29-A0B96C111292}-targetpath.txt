@@ -1,0 +1,5 @@
+Content\Img\beyaz.xnb
+Content\Img\board.xnb
+Content\Img\kirmizi.xnb
+Content\font1.xnb
+Content\Img\cm.xnb

@@ -1,0 +1,1 @@
+c:\users\mert\documents\visual studio 2010\Projects\Chess2\Chess2\Chess2Content\obj\x86\Debug\ResolveAssemblyReference.cache
