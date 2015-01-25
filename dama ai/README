@@ -1,0 +1,3 @@
+Basic checker game with ai, written in alpha beta pruning( Latest ver. is alphaBetaDama.cpp )
+It takes board as input and then generates a move to play.
+There is not an interface, nor optimisaton for scores that moves bring in
